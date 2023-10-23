@@ -1,0 +1,7 @@
+D:\213гр\Практическая 2\bin\Debug\Практическая 2.exe.config
+D:\213гр\Практическая 2\bin\Debug\Практическая 2.exe
+D:\213гр\Практическая 2\bin\Debug\Практическая 2.pdb
+D:\213гр\Практическая 2\obj\Debug\Практическая 2.csproj.AssemblyReference.cache
+D:\213гр\Практическая 2\obj\Debug\Практическая 2.csproj.CoreCompileInputs.cache
+D:\213гр\Практическая 2\obj\Debug\Практическая 2.exe
+D:\213гр\Практическая 2\obj\Debug\Практическая 2.pdb
